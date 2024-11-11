@@ -1,0 +1,15 @@
+body{background-image: url(../img/runaway.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.plane1{ width: 500px;
+position: absolute;
+bottom:10px;
+}
+
+.plane2{position: absolute;right: 90px;
+width: 300px;
+animation: mymove ;
+}
+@keyframes mymove { 
+}
